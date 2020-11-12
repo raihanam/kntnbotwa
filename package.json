@@ -34,15 +34,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/raihanam/kntnbotwa"
+    "url": "git+https://github.com/raihanam/kntnbotwa.dll"
   },
   "keywords": [
     "k"
   ],
-  "author": "MUHAMMAD RAIHAN AMIR",
+  "author": "NILNA",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/raihanam/kntnbotwa/issues"
+    "url": "https://github.com/raihanam/kntnbotwa.dll/issues"
   },
-  "homepage": "https://github.com/raihanam/kntnbotwa#readme"
+  "homepage": "https://github.com/raihanam/kntnbotwa.dll#readme"
 }
