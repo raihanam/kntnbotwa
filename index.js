@@ -15,7 +15,7 @@ const info = require("./lib/info.js");
 /////////////////
 const BotName = 'BOTXN (BOT BY NILNA)☄'; 
 const instagram = 'https://instagram.com/amirrehan211'; 
-const kapanbotaktif = 'jam 07.00 s/d 21.00'; ';
+const kapanbotaktif = 'KETIKA HANYA DIAKTIFKAN'; ';
 //const grupch1 = 'belum ada grup'; 
 //const grupch2 = 'belum ada grup' ; 
 const
